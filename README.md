@@ -9,6 +9,8 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/u%C4%9Fur-emre-ar%C4%B1kan-a39346131/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/u%C4%9Fur-emre-ar%C4%B1kan-a39346131/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/cv.png)](https://www.canva.com/design/DAEhBdcqVo4/w-EKOBwV-uhZarrG80jTAw/view?utm_content=DAEhBdcqVo4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Languages and Tools:
 <p align="left">

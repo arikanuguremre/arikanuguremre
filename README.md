@@ -10,7 +10,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/u%C4%9Fur-emre-ar%C4%B1kan-a39346131/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/u%C4%9Fur-emre-ar%C4%B1kan-a39346131/#gh-dark-mode-only)
 &nbsp;&nbsp;
-<a href="https://www.canva.com/design/DAEhBdcqVo4/w-EKOBwV-uhZarrG80jTAw/view?utm_content=DAEhBdcqVo4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="./img/cv.png" alt="angular" width="30" height="30"/> </a> 
+<a href="https://www.canva.com/design/DAEhBdcqVo4/w-EKOBwV-uhZarrG80jTAw/view?utm_content=DAEhBdcqVo4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="angular" width="30" height="30"/> </a> 
 
 ### Languages and Tools:
 <p align="left">

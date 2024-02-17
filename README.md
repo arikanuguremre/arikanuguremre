@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uğur</h1>
 <h3 align="center">Software Engineer Candidate</h3>
-- 📖  Seniar student at Bilkent University - CTIS
+- 📖  Senior student at Bilkent University - CTIS
 
 ### Connect with me:
 

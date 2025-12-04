@@ -34,8 +34,7 @@
 
 ---
 
- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=arikanuguremre&show_icons=true&locale=en&layout=compact" alt="arikanuguremre" />
- <img  src="https://github-readme-stats.vercel.app/api?username=arikanuguremre&show_icons=true&locale=en" alt="arikanuguremre" />
+
 
  
 

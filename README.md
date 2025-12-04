@@ -25,7 +25,7 @@
 <img align="left" alt="Postgre"  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" />
  <img align="left" alt="Postgre"  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Postgre"  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
- <img align="left" alt="Postgre"  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/python-original.svg" style="padding-right:10px;" />
+ <img align="left" alt="Postgre"  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
  
 
  
